@@ -1,9 +1,0 @@
-{
-    "files.autoSave": "onFocusChange",
-    "editor.suggest.shareSuggestSelections": true,
-    "html.format.indentInnerHtml": true,
-    "emmet.showSuggestionsAsSnippets": true,
-    "emmet.triggerExpansionOnTab": true,
-    "editor.snippetSuggestions": "top",
-    "html-to-css-autocompletion.autocompletionFilesScope": "multi-root"
-}
